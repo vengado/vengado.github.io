@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mundobonito.correchato",
+        "sha256_cert_fingerprints": ["71:07:74:A9:81:63:76:CB:11:7E:92:0D:4C:9E:A3:15:65:2D:D0:B5:4F:D2:FE:5F:60:F4:38:FD:BB:F1:52:6D"]
+      }
+    }]
